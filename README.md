@@ -1,5 +1,5 @@
 <h1>Upgrade</h1>
-Created Core => Utities 
+Created Core => Utilities 
 Utilities was created for providing process information
 
  
