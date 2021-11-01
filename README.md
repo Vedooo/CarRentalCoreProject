@@ -1,7 +1,5 @@
 <h1>Upgrade</h1>
-Created Core => Utilities 
-Utilities was created for providing process information
-
- 
-Created Business => Messages
-Interface messages list
+<p>Created Core/Utilities /p>
+<p>Utilities was created for providing process information</p>
+<p>Created Business/Messages</p>
+<p>Interface messages list</p>
